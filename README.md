@@ -1,3 +1,5 @@
+# March 2020: AddOSC has been superseded by AddRoutes for Blender 2.8 : http://www.jpfep.net/pages/addroutes/
+
 # AddOSC
 OSC support in the viewport for Blender, see: http://www.jpfep.net/pages/addosc/
 
